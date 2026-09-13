@@ -1,0 +1,16 @@
+- Analyse (MATH-101)
+  - [ ] Lesson
+  - [ ] Series
+- Linear Algebra (MATH-111)
+  - [ ] Lesson
+  - [ ] Series
+- Physics (PHYS-101)
+  - [ ] Lesson
+  - [ ] Series
+- Intro prog (CS-107)
+  - [x] Lesson
+  - [x] Series
+- AICC (CS-101)
+  - [ ] Lesson
+  - [x] Quiz
+  - [ ] Series
