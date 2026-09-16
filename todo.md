@@ -1,5 +1,5 @@
 - Analyse (MATH-101)
-  - [ ] Lesson
+  - [x] Lesson
   - [ ] Series
 - Linear Algebra (MATH-111)
   - [ ] Lesson
