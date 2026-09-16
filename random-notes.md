@@ -2,7 +2,7 @@
 
 $:=$ defined as
 
-$:$ such as / tel que
+$:$, $|$, such as / tel que
 
 $=>$ implies
 
