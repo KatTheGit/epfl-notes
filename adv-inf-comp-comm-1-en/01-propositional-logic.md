@@ -51,3 +51,20 @@ TRUTH NUKE!!!1!!
 | $\lor$ | 3 |
 | $\implies$ | 4 |
 | $\iff$ | 5 |
+
+## DNF
+
+A disjunctive normal form is a conjunction if disjunctions, called **minterms**.
+
+It can be constructed from a truth table by taking all true lines, and for each one, creating a minterm that is a disjunction of all variables, negated if they are false, and then creating a disjunction of all these minterms.
+
+These can be constructed without a truth table.
+1. Eliminate equivalences and implications
+2. Move negations inward (to only be in front of variables)
+3. Use distributive and associative laws.
+
+## CNF.
+
+A Conjunctive Normal Form is a disjunction of conjunctions, called **clauses**.
+
+ALl clauses can be constructed from a truth table by taking all false lines, and creating a disjunction of all variables, this time negated only if true.
