@@ -2,7 +2,7 @@
 
 ## Arguments
 
-An argument form is a logical structure containing **premises** and **a conclusion**. It is valid if the premises imply the conclusion. If valid, it is true for every value of the propositional variables.
+An argument form is a logical structure containing **premises** and **a conclusion**. It is valid if the premises imply the conclusion. If valid, it is true for every proposition in the propositional variables.
 
 An argument can be written as such:
 

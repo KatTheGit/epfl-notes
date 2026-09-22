@@ -51,3 +51,21 @@ $[a, b[ := \{x\in \R : a \leq x < b\}$ <br>
 $]a, b] := \{x\in \R : a < x \leq b\}$ <br>
 $]a, b[ := \{x\in \R : a < x < b\}$
 
+Ces intervalles sont dits bornés, sauf si a ou b = infini ou -infini
+
+## Minimum, maximum, supremum, infimum
+
+Pour un ensemble $A \sub \R$:
+- Maximum: plus grand élément **dans** $A$.
+- Minimum: plus petit élément **dans** $A$.
+
+Un ensemble infini n'a aucun de ces deux.
+
+- $M$ majore $A$ si $\forall x \in A, \space x \le M$
+- $M$ minore $A$ si $\forall x \in A, \space x \ge M$
+
+$A$ est borné si il possède les deux.
+
+- Le **supremum** ($\sup A$) est le plus **petit** des majorants de $A$.
+- L' **infimum** ($\inf A$) est le plus **grand** des minorants de $A$.
+    
