@@ -1,8 +1,8 @@
 - Physics (PHYS-101)
-  - [ ] Lesson
-  - [ ] Series
+  - [x] Lesson
+  - [x] Series
 - Analyse (MATH-101)
-  - [ ] Lesson
+  - [x] Lesson
   - [ ] Series
 - Linear Algebra (MATH-111)
   - [x] Lesson

@@ -174,3 +174,4 @@ with known x and y, we can find this constant.
 | $cos(x)$ | $sin(x) + c$
 | $sin(x)$ | $-cos(x)+c$
 | $e^x$ | $e^x + c$
+| $e^{ax}$ | $\frac{1}{a} e^x$
