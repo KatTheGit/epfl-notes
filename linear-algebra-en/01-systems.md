@@ -60,4 +60,3 @@ The columns of a matrix are linearly independent <=> $Ax=0$ only has the trivial
 - If S is linearly dependent, at least one vector $v_j$ in $S$ is a linear combination of all the vectors in $S$ {$v_1\neq 0, ..., vj, ..., v_m$}
 - If m>n ("wide"), then any solution set $S \sub \R^n$ is **linearly dependent**
 - If a set contains 0, it is linearly dependent.
-

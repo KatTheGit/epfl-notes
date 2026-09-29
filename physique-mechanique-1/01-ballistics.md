@@ -69,7 +69,7 @@ $\vec a(t) = \vec a_t(t) + \vec a_n(t)$
 
 On approxime la trajectore entre $t$ et $t + dt$ par un arc de cercle de rayon $R(t)$, longueur $R(t)d \theta$.
 
-$a_n(t) = v² \frac{d \hat \tau}{ds}$
+$\vec {a_n}(t) = v² \frac{d \hat \tau}{ds}$
 
 $a_n(t) = v²(t) / R(t)$
 
