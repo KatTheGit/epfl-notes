@@ -10,6 +10,7 @@ The set of all "$T(x)$" is the **image** (sometimes called range) of T.
 Any transformation T is linear if it satisfies:
 - $T(x + y) = T(x) + T(y)$
 - $\alpha T(x) = T(\alpha x)$
+- $T(0) = 0$
 
 For any $x, y \in \R^m$ and $\alpha \in \R$
 

@@ -5,10 +5,10 @@
   - [x] Lesson
   - [ ] Series
 - Linear Algebra (MATH-111)
-  - [ ] Lesson
+  - [x] Lesson
   - [ ] Series
 - AICC (CS-101)
-  - [ ] Lesson
+  - [x] Lesson
   - [ ] Quiz
   - [ ] Series
 - Intro prog (CS-107)
