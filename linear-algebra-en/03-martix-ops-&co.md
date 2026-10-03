@@ -52,6 +52,41 @@ A square matrix is said to be invertible if there exists $C$ such that:
 
 $AC = I_n$ and $CA = I_n$
 
+- $(A^{-1})^{-1} = A$
+- $(AB)^{-1} = B^{-1} A^{-1}$
+- If $A$ invertible, transpose invertible.
+  - $(A^{-1})^t = (A^t)^{-1}$
+- If a matrix is row equivalent to an identity matrix, it is invertible.
+<br>
+<br>
+
+2x2 case $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$
+- $A^{-1} = \frac{1}{ad-bc} \begin{pmatrix} d & -b \\ -c & a \end{pmatrix}$
+
+### Algorithm to find $A^{-1}$
+
+- Create augmented matrix $(A | I_a)$
+- Perform row operations until $I_a$ appears in the first part
+- The second part will be $A^{-1}.$
+
+## Elementary matrix
+
+- A matrix created using **one elementary row operation** on an identity matrix.
+
+## Properties of square matrices
+
+Let $A$ be an $n \times n$ matrix.
+
+- $A$ invertible.
+- $A$ is row equivalent to $I_n$
+- $A$ has $n$ pivot positions
+- $Ax = 0$ has only trivial solution.
+- Columns of $A$ form a linearly independent set in $\R^n$
+- Linear transformation $x \mapsto Ax$ is one-to-one (injective)
+- $Ax = b$ has at least one solution $\forall b \in \R^n$ (surjective)
+- $A^t$ is invertible.
+- $\exists C, D \in \mathbb{M}_{n \times n}(\R) \quad | \quad CA = I_n, \space \space AD = I_n$
+
 # Matrix Properties
 
 A matrix is:

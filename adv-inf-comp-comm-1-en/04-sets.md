@@ -131,3 +131,59 @@ Complement of $A$ with respect to $U$, noted $\overline A$
 
 $A \bigoplus B = (A - B) \cup (B - A)$
   - In venn diagram, both sets colored except intersection.
+
+# Functions
+
+$A, B$ are nonempty sets.
+
+ $f: A \to B$
+
+$f(a) = b$
+
+- $f$ maps $A$ to $B$
+- $A$ is the domain of $f$
+- $B$ is the codomain of $f$
+- $a$ is the preimage of $b$
+- $b$ is the image of $a$
+- range of $f$ is the set of all images of points in $A$, noted $f(A)$.
+  - Always subset of codomain.
+- $S \sube A \implies f(S) = \set{f(s) | s \in S}$
+
+## Adding & Multiplying
+
+Only if both functions are both integer-valued (codomain is integers) or both real-valued.
+
+- $(f_1 + f_2) (a) = f_1(a) + f_2(a)$
+- $(f_1 \cdot f_2) (a) = f_1(a) \cdot f_2(a)$
+
+## Injection
+
+Function is said to be **injective** or **one-to-one** iff:
+
+$f(a) = f(b) \implies a = b$
+
+## Surjection
+
+Function is said to be **surjective** or **onto** iff:
+
+$\forall b \in B \space \space \space \exist a \in A  \space | \space f(a) = b$
+
+## Bijection
+
+A function is **bijective**, or a **one-to-one correspondence**, if it is both injective and surjective.
+
+### Inverse
+
+$B \to A$
+
+$f^{-1}(y) = x \iff f(x) = y$
+
+Must be bijective.
+
+## Partial Functions
+
+A partial function $A \to B$ is a mapping of **some** elements of $A$, in other word a mapping of all elements of a subset of $A$. This subdomain is called the **domain of definition of $f$**.
+
+$f$ is said **undefined** for elements that are not in the domain of definition.
+
+$f$ is a **total function** if the domain of definition is the same as the domain.

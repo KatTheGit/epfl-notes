@@ -10,7 +10,7 @@ $z = z$ <br>
 
 $\vec r = p * \hat e_p + z * \hat e_z$ <br>
 $\vec v = \dot p * \hat e_p + p \dot \phi * \hat e_\phi + \dot z * \hat e_z$ <br>
-$(\ddot p - p \dot \phi ^2) * \hat e_p + (p \ddot \phi + 2 \dot p \dot \phi) * \hat e_\phi + (\ddot z) * \hat e_z$ <br>
+$\vec a = (\ddot p - p \dot \phi ^2) * \hat e_p + (p \ddot \phi + 2 \dot p \dot \phi) * \hat e_\phi + (\ddot z) * \hat e_z$ <br>
 
 ## Coordonnées Spériques
 
