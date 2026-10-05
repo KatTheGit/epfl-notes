@@ -113,7 +113,7 @@ Essayer d'écrire en tant que produit, simplifier, etc.
 
 ### type $\infin - \infin$
 
-Essayer de mettre en evidence un produit. Identités elémentaire, remarquables tres utiles.
+Essayer de mettre en evidence un produit. Identités elémentaire, remarquables tres utiles. Diviser / multipliquer par conjuqué
 
 ### type $0 / 0$
 
