@@ -38,9 +38,9 @@ $S(R) = S \circ R = \set{(a, c) : \exists b \in B | (a, b) \in R \land (b, c) \i
 
 ## Equivalence relations
 
-- reflexive
-- symmetric
-- transitive
+- reflexive $(a, a) \forall a$
+- symmetric $(a, b), (b, a) \forall a$
+- transitive $(a, b), (b,c) \implies (a,c)$
 
 elements $a, b$ related by equivalence relation arenoted $a \sim b$
 
@@ -56,7 +56,7 @@ $[a]_R = \set{s | (a, s) \in R}$
 
 A partition of $S$ is a collection of **disjoint** (different) subsets, that have $S$ as their union.
 
-## Partial Ordering
+## Partial Ordering (poset)
 
 a partial ordering of $R$ on $S$, noted $(R, S)$
 
@@ -66,7 +66,7 @@ a partial ordering of $R$ on $S$, noted $(R, S)$
 - antisymmetric $(a, b), (b, a) \implies a = b$
 - transitive $(a, b), (b,c) \implies (a,c)$
 
-Called a poset.
+Called a **poset**.
 
 $\preceq$ used to show ordering relation in arbitrary poset.
 

@@ -51,12 +51,13 @@ $(A^t)_{ij} = A_{ji}$
 A square matrix is said to be invertible if there exists $C$ such that:
 
 $AC = I_n$ and $CA = I_n$
-
+  
 - $(A^{-1})^{-1} = A$
 - $(AB)^{-1} = B^{-1} A^{-1}$
 - If $A$ invertible, transpose invertible.
   - $(A^{-1})^t = (A^t)^{-1}$
 - If a matrix is row equivalent to an identity matrix, it is invertible.
+  - It is invertible if its determinant is 0 (and it is a square matrix.)
 <br>
 <br>
 

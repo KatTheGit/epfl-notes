@@ -1,11 +1,11 @@
 - Physics (PHYS-101)
-  - [ ] Lesson
+  - [x] Lesson
   - [ ] Series
 - Analyse (MATH-101)
-  - [x] Lesson
+  - [ ] Lesson
   - [ ] Series
 - Linear Algebra (MATH-111)
-  - [x] Lesson
+  - [ ] Lesson
   - [ ] Series
 - AICC (CS-101)
   - [x] Lesson
@@ -14,6 +14,8 @@
 - Intro prog (CS-107)
   - [ ] Lesson
   - [ ] Series
+
+$\lambda^{-1}$
 
 ### Monday
 
