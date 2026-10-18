@@ -64,3 +64,14 @@ $K_2 - K_1 = W_{12} \iff \frac{dK}{dt}$ Taux de variation Ekin = puissance de la
   - $\nabla = (d/dr)$ pour chaque composante x, y, z
     - En gros on dérive V(r) sur chaque composante
 - $E = E_k + V(\vec r)\quad$ (energie mécanique est conservée (que pour les forces conservatives))
+
+## Theorème de l'énergie
+
+Variation d'e mec = travail force non conservatives
+
+## Equilibre
+
+$F(x_0) = 0 \implies \frac{d}{dt}V(x_0) = 0$
+
+- $V^{(2)}(x_0) > 0 \implies$ équilibre stable (force de rappel vers "intérieur")
+- $V^{(2)}(x_0) < 0 \implies$ équilibre instable

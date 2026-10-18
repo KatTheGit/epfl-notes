@@ -57,7 +57,7 @@ $AC = I_n$ and $CA = I_n$
 - If $A$ invertible, transpose invertible.
   - $(A^{-1})^t = (A^t)^{-1}$
 - If a matrix is row equivalent to an identity matrix, it is invertible.
-  - It is invertible if its determinant is 0 (and it is a square matrix.)
+  - It is invertible if its determinant is **not** 0 (and it is a square matrix.)
 <br>
 <br>
 

@@ -247,3 +247,4 @@ Tout polynôme à coefficients réels $P(x)$ peut se factoriser en un produit de
 - Trouver une première racine
 - Faire la division euclidienne par cette racine
 - Repeat
+

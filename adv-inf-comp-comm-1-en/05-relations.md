@@ -88,20 +88,3 @@ Every element is comparable
 if $a_1 \preceq b_1$ or ($a_1 = b_1$ and $a_2 \preceq b_2$ ).
 
 AKA **Dictionary Ordering**.
-
-## Formal Power Sum
-
-An expression of the form
-
-$A(x) = \displaystyle \sum_{n=0}^{\infin} a_n x^n$
-
-$a_n$ are coefficients.
-
-It is *formal* because "we are not concerned if this infinite sum converges." (aka it is finite)
-
-- $A(x) + B(x) = \displaystyle \sum_{n=0}^{\infin} (a_n + b_n) x^n$
-- $A(x)B(x) = \displaystyle \sum^{\infin}_{n= 0} \sum_{k=0}^{n} (a_k \cdot b_{n-k}) x^n$
-
-### Generating function
-
-If we encode a sequence $a_0, a_1, a_2$
