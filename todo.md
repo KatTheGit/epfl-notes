@@ -15,8 +15,6 @@
   - [ ] Lesson
   - [ ] Series
 
-$\lambda^{-1}$
-
 ### Monday
 
 - Analysis

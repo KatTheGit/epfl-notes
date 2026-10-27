@@ -4,14 +4,17 @@
 
 $A \in \mathbb{M}_{m \times n}$
 
-- $m$: columns
-- $n$: rows
+- $m$: rows
+- $n$: columns
+
+
+row x column
 
 ```
-columns (m)
+columns (n)
 <------->
 / X X X \   |
-| X X X |   | rows (n)
+| X X X |   | rows (m)
 | X X X |   |
 \ X X X /   |
 ```

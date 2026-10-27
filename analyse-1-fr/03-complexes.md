@@ -180,6 +180,17 @@ $z^n = r^n e^{i \cdot n \theta}$
 <br>
 <br>
 
+## Représentation "trigonométrique"
+
+(Formule de Moive 1er degré)
+
+$z = |z| \cdot (\frac{Re(z)}{|z|} + i \cdot \frac{Im(z)}{|z|})$
+
+$= |z| \cdot (\cos Arg(z) + i \cdot \sin Arg(z))$
+
+<br>
+<br>
+
 ## Racines
 
 Racines d'un complexe: $\set{\sqrt[n]{r} \cdot e^{i \frac{\theta + 2k \pi}{n}} | k = 0, 1, 2, ..., n-1}$

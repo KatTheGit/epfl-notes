@@ -1,8 +1,13 @@
-
-
 # Linear Systems, Matrix Equations...
 
 ## REF
+
+1. All zero rows are at the bottom
+2. Leading entry (first nonzero) always to the strictly right of the row above it
+3. All entries prior to a pivor are zero (or all entries below)
+
+To be REF:
+4. Every pivot is 1 and is the only entry in its **column**
 
 ### Row reduction algorithm
 
