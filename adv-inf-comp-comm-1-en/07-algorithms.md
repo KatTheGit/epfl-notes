@@ -38,3 +38,17 @@ odd: additions of odd numbers (n)
 
 discinct: additions of distinct numbers (n-1)
 
+# Growth of Functions (Complexity of Algorithms)
+
+We mostly care about growth rather than exact values. Multiplicative constant ($f(n) = \alpha n$) is not so relevant
+
+
+## big O Notation
+
+$f(x)$ is $O(g(x))$ if there are constants $C$ and $k$ such that:
+
+$|f(x)| \le C|g(x)|$, whenever $x>k$
+
+Basically g(x) dominates f(x) above x = k.
+
+ $\R[x]_{\le n}$ complexity is $O(x^n)$

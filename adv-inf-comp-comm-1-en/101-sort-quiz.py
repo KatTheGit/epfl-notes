@@ -77,7 +77,7 @@ def bubble_sort(list):
     return list
 
 
-list = [1, 2, 3, 4, 5, 7, 6, 8, 9]
+list = [-3, 2, -10, -6, 5]
 list_copy = list.copy()
 
 print("INSERTION SORT")
