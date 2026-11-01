@@ -95,7 +95,7 @@ In other words, the **minimal set of vectors** that span $H$.
 
 - row reduce the matrix, we call $U$
 - solve $Ux = 0$
-- The solution in $\sum$ variable $\cdot$ vector form. (parametric form)
+- The solution in "$\sum$ variable $\cdot$ vector" form. (parametric form)
 - $x \in Nul(A) \iff x \in Span \set{vectors}$
 - These two vectors are the basis for the null space.
 
@@ -107,7 +107,16 @@ In other words, the **minimal set of vectors** that span $H$.
 
 ## Random Bullshit
 
-If $b \in \R^4$, how do i know if $b \in Col(A)$?
+$b \in Col(A)\iff Ax = b$ consistent.
 
-$\iff Ax = b$ consistent.
+a vector is an element of a vector space.
 
+### Random theorem 1
+
+$V$ is a vector space and $B = \set{b_1, ..., b_n}$ is an ordered basis.
+
+if $v \in V$, $\exists$ uniquely determined scalars $|$ $v = \lambda_1 b_1, ..., \lambda_n b_n$ 
+
+As a consequence, we get a map from $V \to \R^n$
+
+$v \mapsto \begin{pmatrix}\lambda_1 \\ ... \\ \lambda_n \end{pmatrix} =: [v]_B$ <- coordinate vector of $v$ from B
