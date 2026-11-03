@@ -57,7 +57,7 @@ $T: V \to W$ (both vector spaces) assigns to each $x \in V$ a unique $T(x) \in W
 - $T(u + v) = T(u) + T(v)$
 - $T( \alpha u) = \alpha T(u)$
 
-$Ker(T) = \set{u \in V | T(u) = 0_W}$ (subspace of V)
+$Ker(T) = \set{u \in V | T(u) = 0_W}$ (subspace of V) (elements for which image is 0)
 
 $Im(T) = \set{T(u) \in W | u \in V}$ (subspace of W)
 

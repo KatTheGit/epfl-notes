@@ -43,12 +43,36 @@ discinct: additions of distinct numbers (n-1)
 We mostly care about growth rather than exact values. Multiplicative constant ($f(n) = \alpha n$) is not so relevant
 
 
-## big O Notation
+## Big-O Notation
 
 $f(x)$ is $O(g(x))$ if there are constants $C$ and $k$ such that:
 
 $|f(x)| \le C|g(x)|$, whenever $x>k$
 
-Basically g(x) dominates f(x) above x = k.
+$n! > 2^n > n^2 > n \log n > n > \log n > 1 \quad$ ("$>$" used as substitute for "$O()$")
 
- $\R[x]_{\le n}$ complexity is $O(x^n)$
+### Theorems
+
+$\R[x]_{\le n}$ complexity is $O(x^n)$
+
+If $\displaystyle \lim_{x \to \infin} \frac{f(x)}{g(x)}$ is finite, then $f(x)$ is $O(g(x))$
+
+## Big-Omega Notation
+
+Opposite of Big-O.
+
+$f(x)$ is $\Omega(g(x))$ if there are constants $C$ and $k$ such that:
+
+$|f(x)| \ge C|g(x)|$, whenever $x>k$
+
+## Big-Theta Notation
+
+A function is $\Theta(g(x))$ if it is both $O(g(x))$ and $\Omega(G(x))$.
+
+### Theorems
+
+$\R[x]_{\le n}$ is $\Theta(x^n)$
+
+## Little o
+
+$f$ is $o(g(x))$ if $\displaystyle \lim_{x \to \infin} \frac{f(x)}{g(x)} = 0$

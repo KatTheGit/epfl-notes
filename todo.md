@@ -18,24 +18,28 @@
 ### Monday
 
 - Analysis
+  - Exercises
 
 ### Tuesday
 
 - AICC
 - Linal
+  - Exercises
 
 ### Wednesday
 
 - Physics
+  - Exercises
 
 ### Thursday
 
 - Physics
-- Analysis
+- Linal
 
 ### Friday
 
 - AICC quiz
+  - Exercises
 - Programming / Physics
 
 ### Saturday
